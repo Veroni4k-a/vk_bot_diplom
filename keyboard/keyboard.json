@@ -1,0 +1,27 @@
+
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Получить информацию",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Подать заявку",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+
+}

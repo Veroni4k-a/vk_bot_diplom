@@ -1,0 +1,16 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "&#11013; Назад",
+          "payload": "{\"button\": \"5\"}"
+        },
+        "color": "default"
+      }
+    ]
+  ]
+
+}

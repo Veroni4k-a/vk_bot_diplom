@@ -1,0 +1,24 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Написать адрес вручную",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "location",
+          "payload": "{\"button\": \"5\"}"
+        }
+      }
+    ]
+  ]
+
+}

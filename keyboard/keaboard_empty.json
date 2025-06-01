@@ -1,0 +1,16 @@
+{
+  "one_time": false,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "В главное меню",
+          "payload": "{\"button\": \"5\"}"
+        },
+        "color": "default"
+      }
+    ]
+  ]
+
+}

@@ -1,0 +1,61 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Отлов собак",
+        "payload": "{\"button\": \"1\"}"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Упало дерево",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "Уборка мусора",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Брошенный транспорт",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "Проблемы с освещением",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Поломка светофора",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "positive"
+      }],
+    [{
+       "action": {
+          "type": "text",
+          "label": "В главное меню",
+          "payload": "{\"button\": \"5\"}"
+        },
+        "color": "default"
+    }]
+  ]
+}
